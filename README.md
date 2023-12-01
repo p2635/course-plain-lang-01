@@ -68,3 +68,40 @@ New signs have been put on the roads, or the roads have clearer markings.
 > 5. A store in St. Louis advertises "semi‐antique" rugs
 
 Second-hand rugs?
+
+# Exercise three: website comparison
+
+Below are two websites for you to visit. 
+
+Start by clicking each link to load up the sites in new windows or tabs, but try to avoid looking at the pages right away.
+
+For each one:
+
+- Set a timer for 10 seconds
+- View the page
+- Hide the page from view and write down everything you remember about what was on it
+
+## Sample page #1 - the horrible page
+
+- There is a picture with a strange shape with a hole in it.
+- The shape is orange and it's apparently called a doohickey.
+- There are some text descriptions about this shape.
+- There are instructions on the page to clean it.
+
+## Sample page #2 - cleaned up version
+
+All of the things I mentioned for sample page 1 and:
+
+- The page design is much clearer now.
+- It is clear that this doohickey is a product that you can buy.
+- There is a link included for the customer to buy it (call to action).
+
+## Reflection
+
+10 seconds was definitely not enough time for me. I couldn't even read any text in detail because I panicked. After spending more time comparing those pages, I disagree with all my previous comments about page 2.
+
+- Doohickey just means 'I don't know what that small thing is'. Maybe the author should've picked another word! (consider your audience).
+- The page design is horrible on page 2, there are no headings. Page 1 has way more headings for easy skimming.
+- I know it would take at least 2 or 3 times longer to read page 2, because there are no headings.
+- It is already clear that both pages have links to buy the product. As I said, I panicked so I must've missed it the first time.
+- There was actually a link in sample page 1 as well, but I didn't notice it the first time. It is more noticeable on page 2 because it's at the top.
