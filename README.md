@@ -104,3 +104,28 @@ All of the things I mentioned for sample page 1 and:
 - The page design is horrible on page 2, there are no headings. Page 1 has way more headings for easy skimming.
 - I know it would take at least 2 or 3 times longer to read page 2, because there are no headings.
 - There was actually a link in sample page 1 as well, but I didn't notice it the first time. It is more noticeable on page 2 because it's at the top.
+
+# Exercise four: a structured overview
+
+Below is a jumbled paragraph about a common North American breakfast food. 
+
+Try to unscramble the information and draft an outline of appropriate headings that could help to structure this information in a more logical and helpful way.
+
+> Toast is most commonly eaten with butter or margarine spread over it, and may be served with preserves, spreads, or other toppings in addition to or instead of butter. You may need more slices because it is so good. Later, simple devices were created to toast bread in the fire, such as wire frames to cook the toast more evenly. Some sandwiches, such as the BLT, call for toast to be used rather than bread. The practice of toasting bread became popular in the Roman Empire. Toast with jam or marmalade is popular. The word “toast” actually comes from the Latin “tostum,” which means “to burn or scorch.” You will need a toaster and a slice of bread.  Toast is  considered by many to be delicious! The first breads were likely toasted by laying them in front of the fire on a hot stone. Toast is a common breakfast food.
+
+## My answers (unscrambling then creating groups):
+
+- About Toast
+  - Toast is a common breakfast food.
+  - Toast is considered by many to be delicious!
+- What can you eat with it
+  - Toast is most commonly eaten with butter or margarine spread over it, and may be served with preserves, spreads, or other toppings in addition to or instead of butter.
+  - Toast with jam or marmalade is popular.
+  - Some sandwiches, such as the BLT, call for toast to be used rather than bread.
+  - You will need a toaster and a slice of bread.
+  - You may need more slices because it is so good.
+- History of Toast
+  - The word “toast” actually comes from the Latin “tostum,” which means “to burn or scorch.”
+  - The practice of toasting bread became popular in the Roman Empire.
+  - The first breads were likely toasted by laying them in front of the fire on a hot stone.
+  - Later, simple devices were created to toast bread in the fire, such as wire frames to cook the toast more evenly.
