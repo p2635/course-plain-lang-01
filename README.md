@@ -8,6 +8,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise Two: What are they trying to say?](#exercise-two-what-are-they-trying-to-say)
 - [Exercise Three: Website comparison](#exercise-three-website-comparison)
 - [Exercise Four: A structured overview](#exercise-four-a-structured-overview)
+- [Exercise five: chunking and headings](#exercise-five-chunking-and-headings)
 
 # Exercise One: How well do you understand?
 
