@@ -134,3 +134,74 @@ Try to unscramble the information and draft an outline of appropriate headings t
   - The practice of toasting bread became popular in the Roman Empire.
   - The first breads were likely toasted by laying them in front of the fire on a hot stone.
   - Later, simple devices were created to toast bread in the fire, such as wire frames to cook the toast more evenly.
+
+# Exercise five: chunking and headings
+
+Practise chunking and headings.
+
+1. Break the text into smaller pieces based on key topics
+2. Add a relevant heading to each chunk
+
+> In the United States, large globe artichokes are frequently prepared by removing all but 5–10 mm of the stem. Sometimes they may have thorns which can interfere with eating. To remove thorns, around a quarter of each scale can be cut off. To cook, the artichoke is boiled or steamed. A cooked, unseasoned artichoke has a delicate flavour. While the outer stem is often tough and bitter, the core of the stem tastes similar to the artichoke heart, and is edible. Salt may be added to the water if boiling artichokes. Covered artichokes, in particular those that have been cut, can turn brown due to enzymatic browning and chlorophyll oxidation. Placing them in water slightly acidified with vinegar or lemon juice can prevent the discoloration. Leaves are often removed one at a time, and the fleshy base eaten with hollandaise, vinegar, butter, mayonnaise, aioli, lemon juice, or other sauces. The fibrous upper part of each leaf is usually discarded. The heart is eaten when the inedible choke has been peeled away from the base and discarded. The thin leaves covering the choke are also edible.
+
+(Text adapted from https://en.wikipedia.org/wiki/Artichoke)
+
+## My answers
+
+**Artichoke preparation**
+
+In the United States, large globe artichokes are frequently prepared by removing all but 5–10 mm of the stem. Sometimes they may have thorns which can interfere with eating. To remove thorns, around a quarter of each scale can be cut off. To cook, the artichoke is boiled or steamed.
+
+**Artichoke taste**
+
+A cooked, unseasoned artichoke has a delicate flavour. While the outer stem is often tough and bitter, the core of the stem tastes similar to the artichoke heart, and is edible. Salt may be added to the water if boiling artichokes. 
+
+**Prevent browning**
+
+Covered artichokes, in particular those that have been cut, can turn brown due to enzymatic browning and chlorophyll oxidation. Placing them in water slightly acidified with vinegar or lemon juice can prevent the discoloration.
+
+**How to eat**
+
+Leaves are often removed one at a time, and the fleshy base eaten with hollandaise, vinegar, butter, mayonnaise, aioli, lemon juice, or other sauces. The fibrous upper part of each leaf is usually discarded. The heart is eaten when the inedible choke has been peeled away from the base and discarded. The thin leaves covering the choke are also edible.
+
+## Reflection
+
+After reading the [takeaways](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/plain-language-course/exercise-5-takeaways), here are my thoughts:
+
+- The instructions did not tell me to rewrite anything. Yet, the answer in the takeaways did change some of the content!
+- The chunking and headings were the same as my answers, except for the second one. Mine is about the taste whereas the sample answer is 'Cooking'.
+- I am pleased that even some of the headings matched the sample answers.
+
+## Bonus exercise
+
+The takeaways has this bonus exercise for me:
+
+> Note that a lot more could be done to convert the text above to plain language. For example, the entire passage is written in the passive voice. Try changing it to the active voice and revising the text further after you complete Exercise Nine.
+
+My answer (I have assumed the audience is a cookbook reader):
+
+**Preparation**
+
+In the United States, people often prepare large globe artichokes by removing all but 5–10 mm of the stem. Sometimes the thorns can interfere with eating. To remove the thorns, you can cut off around a quarter of each scale.
+
+**Cooking**
+
+You can boil or steam the artichoke to cook it. A cooked, unseasoned artichoke has a delicate flavour. You can add salt to the water if boiling artichokes.
+
+**Prevent browning**
+
+Covered artichokes can turn brown due to enzymatic browning and chlorophyll oxidation, in particular those that have been cut. To prevent this, place them in water slightly acidified with vinegar or lemon juice.
+
+**Eating an artichoke**
+
+Leaves are often removed one at a time, and the fleshy base eaten with:
+
+- hollandaise
+- vinegar
+- butter
+- mayonnaise
+- aioli
+- lemon juice
+- or other sauces.
+
+The fibrous upper part of each leaf is usually discarded. The heart is eaten when the inedible choke has been peeled away from the base and discarded. While the outer stem is often tough and bitter, the edible core of the stem tastes similar to the artichoke heart. The thin leaves covering the choke are also edible.
