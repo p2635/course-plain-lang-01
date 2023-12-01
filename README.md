@@ -4,12 +4,12 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 
 # Table of contents
 
-- [Exercise One: How well do you Understand?](#exercise-one-how-well-do-you-understand)
+- [Exercise One: How well do you understand?](#exercise-one-how-well-do-you-understand)
 - [Exercise Two: What are they trying to say?](#exercise-two-what-are-they-trying-to-say)
 - [Exercise Three: Website comparison](#exercise-three-website-comparison)
 - [Exercise Four: A structured overview](#exercise-four-a-structured-overview)
 
-# Exercise One: How well do you Understand?
+# Exercise One: How well do you understand?
 
 Read the following text samples and try to figure out what they mean:
 
