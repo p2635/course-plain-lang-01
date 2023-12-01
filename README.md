@@ -10,6 +10,8 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise four: A structured overview](#exercise-four-a-structured-overview)
 - [Exercise five: Chunking and headings](#exercise-five-chunking-and-headings)
 - [Exercise six: Latinate](#exercise-six-latinate)
+- [Exercise seven: sentence shortening](#exercise-seven-sentence-shortening)
+- [Exercise eight: cut wordy phrases](#exercise-eight-cut-wordy-phrases)
 
 # Exercise one: How well do you understand?
 
