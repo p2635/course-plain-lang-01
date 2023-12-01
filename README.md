@@ -9,7 +9,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise three: Website comparison](#exercise-three-website-comparison)
 - [Exercise four: A structured overview](#exercise-four-a-structured-overview)
 - [Exercise five: Chunking and headings](#exercise-five-chunking-and-headings)
-- [Exercise six: Latinate](#exercise-five-chunking-and-headings)
+- [Exercise six: Latinate](#exercise-six-latinate)
 
 # Exercise one: How well do you understand?
 
