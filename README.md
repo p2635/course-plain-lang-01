@@ -13,6 +13,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise seven: sentence shortening](#exercise-seven-sentence-shortening)
 - [Exercise eight: cut wordy phrases](#exercise-eight-cut-wordy-phrases)
 - [Exercise nine: changing verbs from passive to active](#exercise-nine-changing-verbs-from-passive-to-active)
+- [Exercise ten: sentence simplification](#exercise-ten-sentence-simplification)
 
 # Exercise one: How well do you understand?
 
@@ -287,3 +288,26 @@ My answers are the second sentence in each point.
 8. The original trusses and the repair were designed by the same registered professional. -> The same registered professional designed the original trusses and the repair.
 9. The tax applies even if the insurance was purchased by a non-resident on your behalf. -> The tax applies even if a non-resident purchased the insurance on your behalf.
 10. Today's blog was written by staff working on elder abuse prevention. -> The staff working on elder abuse prevention wrote today's blog.
+
+# Exercise ten: sentence simplification
+
+My answers are the second sentence in each point.
+
+1. She is going to order supplies for the party. -> She will order supplies for the party / She will order party supplies (a bit too short for my liking).
+2. She organized a meeting during which she consulted with the director. -> She organized a meeting when she consulted the director.
+3. The training gives you the opportunity to increase your skills and abilities in using CMS Lite. -> The training lets you improve your CMS Lite skills.
+4. I am interested in the topic about which you wrote. -> I'm interested in the topic you wrote about. 
+5. There is no current estimate of the number of boxes of records in the possession of the school. -> There is no current estimate of how many boxes of records the school owns.
+6. A knowledge of correct web style is the duty of all of the writers of the content of this website. -> All the content writers are responsible for correct web style for this website.
+7. The politician responded to the allegations with vehemence. -> The politician responded strongly to the allegations.
+8. She was disturbed by the violent images in the movie. -> The violence in the movie disturbed her.
+9. Their attempt to achieve a reduction in paperwork was unsuccessful. -> They failed to reduce the paperwork.
+10. The best outcome for this scenario would be a change in policy. -> A change in policy is the best outcome here.
+11. It is imperative that you do not leave the waffle iron belonging to Tom unattended as it has a broken fuse and it could catch fire. -> Do not leave Tom's waffle iron unattended. It could catch fire because of a broken fuse.
+
+Reflections (overall, my answers were not bad).
+
+- Number 2 - It seems I misunderstood this. The simplified version was just 'She consulted with the director'.
+- Number 5 - "We have no current estimate of how many boxes of records the school possesses. (Reduce prepositions)". I like how the sample answer changes 'There is no' into 'We have no'.
+- Number 6 - 'All content writers for this website must know correct web style'. My answer was not bad, but the sample answer is still simpler.
+- I can improve if I continue to look at for unnecessary prepositions (is, to, since, than, on, as, at, by, for, after).
