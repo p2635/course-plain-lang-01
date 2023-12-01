@@ -2,6 +2,13 @@
 
 This text file are my answers to the [12 plain language exercises](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/plain-language-course/plain-language-exercises) on the British Columbia gov website.
 
+# Table of contents
+
+- [Exercise One: How Well do you Understand?](#exercise-one-how-well-do-you-understand)
+- [Exercise Two: What are they trying to say?](#exercise-two-what-are-they-trying-to-say)
+- [Exercise Three: website comparison](#exercise-three-website-comparison)
+- [Exercise Four: a structured overview](#exercise-four-a-structured-overview)
+
 # Exercise One: How Well do you Understand?
 
 Read the following text samples and try to figure out what they mean:
@@ -69,7 +76,7 @@ New signs have been put on the roads, or the roads have clearer markings.
 
 Second-hand rugs?
 
-# Exercise three: website comparison
+# Exercise Three: website comparison
 
 Below are two websites for you to visit. 
 
@@ -105,7 +112,7 @@ All of the things I mentioned for sample page 1 and:
 - I know it would take at least 2 or 3 times longer to read page 2, because there are no headings.
 - There was actually a link in sample page 1 as well, but I didn't notice it the first time. It is more noticeable on page 2 because it's at the top.
 
-# Exercise four: a structured overview
+# Exercise Four: a structured overview
 
 Below is a jumbled paragraph about a common North American breakfast food. 
 
