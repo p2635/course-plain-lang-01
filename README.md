@@ -2,14 +2,6 @@
 
 This text file are my answers to the [plain language exercises](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/plain-language-course/plain-language-exercises) on the British Columbia gov website.
 
-# Table of Contents
-
-- [Plain Language Course – Exercise File](#plain-language-course---exercise-file)
-- [Exercise One: How Well do you Understand?](#exercise-one--how-well-do-you-understand-)
-- [Exercise Two: What are they trying to say?](#exercise-two--what-are-they-trying-to-say-)
-
-<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
-
 # Exercise One: How Well do you Understand?
 
 Read the following text samples and try to figure out what they mean:
