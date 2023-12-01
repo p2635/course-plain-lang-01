@@ -9,6 +9,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise three: Website comparison](#exercise-three-website-comparison)
 - [Exercise four: A structured overview](#exercise-four-a-structured-overview)
 - [Exercise five: Chunking and headings](#exercise-five-chunking-and-headings)
+- Exercise six: Latinate
 
 # Exercise one: How well do you understand?
 
@@ -206,3 +207,32 @@ Leaves are often removed one at a time, and the fleshy base eaten with:
 - or other sauces.
 
 The fibrous upper part of each leaf is usually discarded. The heart is eaten when the inedible choke has been peeled away from the base and discarded. While the outer stem is often tough and bitter, the edible core of the stem tastes similar to the artichoke heart. The thin leaves covering the choke are also edible.
+
+# Exercise six: Latinate
+
+For fun, try to translate the following Latinate back into everyday expressions.
+
+1. Scintillate, scintillate, asteroid diminutive. 
+2. Members of an avian species with identical plumage will congregate. 
+3. It is futile to become lachrymose over precipitately departed lacteal fluids. 
+4. The stylus is more potent than the claymore.
+5. It is fruitless to indoctrinate a superannuated canine with innovative manoeuvers. 
+
+## My answers
+
+Oh great, I might not even have the vocabulary power for this. I might need to use a dictionary. But let's try without a dictionary first.
+
+1. No idea, I know scintillating is like... interesting?
+2. Birds of a feather flock together.
+3. You can't dry something that's wet (pure guess).
+4. Something to do with making peace, not war? Pen vs sword?
+5. You can't teach an old dog new tricks.
+
+## After reflecting on the takeaways
+
+1. Oh right, scintillate actually means to shine. Twinkle, twinkle, little star!
+2. I nailed this one.
+3. Oh right, no use crying over spilled milk!
+4. Oh right, the pen is mightier than the sword!
+5. I nailed this one.
+
