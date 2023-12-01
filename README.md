@@ -12,6 +12,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise six: Latinate](#exercise-six-latinate)
 - [Exercise seven: sentence shortening](#exercise-seven-sentence-shortening)
 - [Exercise eight: cut wordy phrases](#exercise-eight-cut-wordy-phrases)
+- [Exercise nine: changing verbs from passive to active](#exercise-nine-changing-verbs-from-passive-to-active)
 
 # Exercise one: How well do you understand?
 
