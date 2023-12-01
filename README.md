@@ -17,18 +17,16 @@ Read the following text samples and try to figure out what they mean:
 
 "All individuals who work with children or vulnerable adults, or have unsupervised access to children or vulnerable adults in the ordinary course of their employment, or in the practice of an occupation, or during the course of an education program and who are employed by or licensed by, or receive regular ongoing operating funds from the provincial government are covered under the Criminal Records Review Act."
 
-My thoughts:
+## My thoughts on Sample Text 1
 
-This massive sentence lists people who are covered by some legal act.
+This massive sentence lists people who are covered by some legal act. I would rewrite it this way:
 
-My rewrite:
-
-The Criminal Records Review Act covers you if:
+"The Criminal Records Review Act covers you if:
 
 - You work with children or vulnerable adults
 - You have unsupervised access to children or vulnerable adults in a work or education environment
 - You are employed by or licensed by the provincial government
-- You receive regular operating funds from the provincial government
+- You receive regular operating funds from the provincial government"
 
 ## Sample Text 2
 
@@ -38,13 +36,13 @@ The Criminal Records Review Act covers you if:
 - Have unsupervised access to children or vulnerable adults during your employment, occupation or education, or
 - Are licensed by or receiving funding from the provincial government"
 
-My thoughts after reading Sample 2.
+## My thoughts after reading Sample 2
 
-- Strangely, Sample 2 does not have 'employed by the provincial government' but I guess 'receiving funding' counts?
+Strangely, Sample 2 does not have 'employed by the provincial government' but I guess 'receiving funding' counts?
 
-What I did well (Acknowledge):
+What I did well:
 
-- My answer was broken up into a list
+- My answer was broken up into a list.
 
 What I can do better:
 
