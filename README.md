@@ -14,6 +14,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise eight: cut wordy phrases](#exercise-eight-cut-wordy-phrases)
 - [Exercise nine: changing verbs from passive to active](#exercise-nine-changing-verbs-from-passive-to-active)
 - [Exercise ten: sentence simplification](#exercise-ten-sentence-simplification)
+- [Exercise eleven: evaluating sample text](#exercise-eleven-evaluating-sample-text)
 
 # Exercise one: How well do you understand?
 
@@ -311,3 +312,34 @@ Reflections (overall, my answers were not bad).
 - Number 5 - "We have no current estimate of how many boxes of records the school possesses. (Reduce prepositions)". I like how the sample answer changes 'There is no' into 'We have no'.
 - Number 6 - 'All content writers for this website must know correct web style'. My answer was not bad, but the sample answer is still simpler.
 - I can improve if I continue to look at for unnecessary prepositions (is, to, since, than, on, as, at, by, for, after).
+
+# Exercise eleven: evaluating sample text
+
+Here is some sample text for review:
+
+> Effective June 1, 2017, in response to client feedback, hiring managers are no longer required to submit competition documentation to the BC Public Service Agency to confirm a hire.
+>
+> Eliminating the requirement to submit competition documentation to complete a hire does not remove the requirement for hiring managers to retain competition documentation. Hiring managers are still responsible for documenting and retaining all competition files, as they currently do, for a minimum of two years.
+
+Instructions:
+
+1. Copy the text into Microsoft Word.
+2. Use the spell checker to obtain a Flesch-Kincaid Grade Level for the page. Aim for a grade 6-8 reading level.
+3. Use what you have learned in this course and the Plain Language Checklist to edit the text. Simplify, clarify, and improve the content.
+4. Use Hemingway App to review the page content for additional tips.
+
+## My revised text
+
+**Change for Hiring Managers from June 1, 2017**
+
+From June, you don't need to send competition files to the BC Public Service Agency to confirm a hire. This does not mean to stop retaining competition files. Continue to document and retain all competition files for at least two years.
+
+## The sample answer
+
+> Hiring managers must keep competition files for at least two years. They don't need to submit them to the BC Public Service Agency. This policy changed June 1, 2017.
+
+- It seems they removed the part about 'to confirm a hire'. I am not sure if there are other circumstances where they have to send competition files. This is something I would check in real life, before I am confident enough to remove it.
+- I like how they moved the most important part to the beginning. The part about continuing to keep the competition files.
+- I don't like how it says 'This policy changed' because I thought this was meant to be written from the POV that its ABOUT to change.
+- I do like how the date is moved to the end. This is usually the case with any usual deadlines for school or work assignments.
+- It looks like I added a heading but they didn't. I feel proud. 💪
