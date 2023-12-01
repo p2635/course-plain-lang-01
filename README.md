@@ -252,3 +252,20 @@ My answers were pretty much spot on with the sample answers. I changed a few thi
 2. Once you are hired, you will need first aid training. Note that the training must happen before your first day of work.
 3. The ministry needs you to apply for coverage before your contract ends. However, you can submit Form B anytime whether or not your contract has finished.
 
+# Exercise eight: cut wordy phrases
+
+As this exercise was a table of matching pairs, I decided only to include my answer here. In case it is not clear, the format here is word phrase -> short phrase.
+
+- a number of, many
+- owing to the fact that, because
+- at the present time, now
+- in a timely manner, promptly (even though I would use soon)
+- in an effort to, to
+- make a modification to, change
+- in regard to, about
+- provide the opportunity for, let
+- it is requested that you, please
+- in the event of, if
+- after this is accomplished, then
+
+I scored 100% here, it was quite easy really. The challenge is spotting what _my version of these are_. For example, my bad habits at work are using 'with regards to' and 'in order to'.
