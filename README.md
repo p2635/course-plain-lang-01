@@ -8,7 +8,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise two: What are they trying to say?](#exercise-two-what-are-they-trying-to-say)
 - [Exercise three: Website comparison](#exercise-three-website-comparison)
 - [Exercise four: A structured overview](#exercise-four-a-structured-overview)
-- [Exercise five: chunking and headings](#exercise-five-chunking-and-headings)
+- [Exercise five: Chunking and headings](#exercise-five-chunking-and-headings)
 
 # Exercise one: How well do you understand?
 
@@ -136,7 +136,7 @@ Try to unscramble the information and draft an outline of appropriate headings t
   - The first breads were likely toasted by laying them in front of the fire on a hot stone.
   - Later, simple devices were created to toast bread in the fire, such as wire frames to cook the toast more evenly.
 
-# Exercise five: chunking and headings
+# Exercise five: Chunking and headings
 
 Practise chunking and headings.
 
