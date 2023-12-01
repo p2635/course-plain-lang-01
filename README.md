@@ -103,5 +103,4 @@ All of the things I mentioned for sample page 1 and:
 - Doohickey just means 'I don't know what that small thing is'. Maybe the author should've picked another word! (consider your audience).
 - The page design is horrible on page 2, there are no headings. Page 1 has way more headings for easy skimming.
 - I know it would take at least 2 or 3 times longer to read page 2, because there are no headings.
-- It is already clear that both pages have links to buy the product. As I said, I panicked so I must've missed it the first time.
 - There was actually a link in sample page 1 as well, but I didn't notice it the first time. It is more noticeable on page 2 because it's at the top.
