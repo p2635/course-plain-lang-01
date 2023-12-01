@@ -1,6 +1,6 @@
 # Plain Language Course – Exercise File
 
-This text file are my answers to the [plain language exercises](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/plain-language-course/plain-language-exercises) on the British Columbia gov website.
+This text file are my answers to the [12 plain language exercises](https://www2.gov.bc.ca/gov/content/governments/services-for-government/service-experience-digital-delivery/web-content-development-guides/web-style-guide/plain-language-course/plain-language-exercises) on the British Columbia gov website.
 
 # Exercise One: How Well do you Understand?
 
