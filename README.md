@@ -271,3 +271,18 @@ As this exercise was a table of matching pairs, I decided only to include my ans
 - after this is accomplished, then
 
 I scored 100% here, it was quite easy really. The challenge is spotting what _my version of these are_. For example, my bad habits at work are using 'with regards to' and 'in order to'.
+
+# Exercise nine: changing verbs from passive to active
+
+My answers are the second sentence in each point.
+
+1. The effects of an opioid overdose can be reversed by Naloxone. -> Naloxone can reverse the effects of an opioid overdose.
+2. Today in a speech to the Union of BC Municipalities, a new program was announced by the premier. -> Today in a speech to the Union of BC Municipalities, the premier announced a new program.
+3. The citizens of B.C. are served by B.C.'s elected leaders and public servants. -> In B.C., the elected leaders and public servants serve its citizens.
+4. One type of air pollution is caused by hydrocarbons. -> Hydrocarbons cause one type of air pollution.
+5. The dividends of a strong and diversified economy and prudent fiscal management are delivered by British Columbia's fifth-consecutive balanced budget. ->  British Columbia's fifth-consecutive balanced budget delivered the dividends of a strong and diversified economy and prudent fiscal management.
+6. It was decided by the court that the contract was unconstitutional. -> The court decided that the contract was unconstitutional.
+7. The kayak was invented by Indigenous people for transportation and fishing. -> The Indigenous people invented the kayak for transportation and fishing.
+8. The original trusses and the repair were designed by the same registered professional. -> The same registered professional designed the original trusses and the repair.
+9. The tax applies even if the insurance was purchased by a non-resident on your behalf. -> The tax applies even if a non-resident purchased the insurance on your behalf.
+10. Today's blog was written by staff working on elder abuse prevention. -> The staff working on elder abuse prevention wrote today's blog.
