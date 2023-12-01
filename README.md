@@ -236,3 +236,19 @@ Oh great, I might not even have the vocabulary power for this. I might need to u
 4. Oh right, the pen is mightier than the sword!
 5. I nailed this one.
 
+# Exercise seven: sentence shortening
+
+Break the following sentences into two to simplify them:
+
+1. The human resources department will process your unemployment insurance application and let you know within two weeks if you are successful.
+2. Once you are hired you will require first aid training but be aware that the training will have to occur before your first day of work.
+3. Although the ministry requires you to apply for coverage before your contract is up, Form B can be submitted anytime during the calendar year whether or not your contract is completed. 
+
+## My answers
+
+My answers were pretty much spot on with the sample answers. I changed a few things for simpler language.
+
+1. The human resources department will process your unemployment insurance application. You will know if you are successful within two weeks.
+2. Once you are hired, you will need first aid training. Note that the training must happen before your first day of work.
+3. The ministry needs you to apply for coverage before your contract ends. However, you can submit Form B anytime whether or not your contract has finished.
+
