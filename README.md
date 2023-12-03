@@ -381,4 +381,12 @@ Answering this question helps you effectively define and promote accessibility i
 
 You may think this is obvious, but it's often a real problem with content accessibility. Some think the problem is the person's disability or the use of assistive technology. Instead, those people could check for poorly formatted content or written code. Designing for equitable access is not about solving disability as a problem. You should accept and respect solutions that enable alternate ways to access. At the same time, consider if you are creating obstacles for those with special needs.
 
-(add Hemingway results here)
+Hemingway results
+
+- Grade 8
+- Words:139
+- 2 adverbs. Aim for 1 or fewer.
+- 0 uses of passive voice. Nice work.
+- 1 phrase has a simpler alternative.
+- 0 of 12 sentences are hard to read.
+- 0 of 12 sentences are very hard to read.
