@@ -15,6 +15,7 @@ This text file are my answers to the [12 plain language exercises](https://www2.
 - [Exercise nine: changing verbs from passive to active](#exercise-nine-changing-verbs-from-passive-to-active)
 - [Exercise ten: sentence simplification](#exercise-ten-sentence-simplification)
 - [Exercise eleven: evaluating sample text](#exercise-eleven-evaluating-sample-text)
+- [Exercise twelve: evaluate a page using a plain language checklist](#exercise-twelve-evaluate-a-page-using-a-plain-language-checklist)
 
 # Exercise one: How well do you understand?
 
@@ -379,3 +380,5 @@ It's interesting that this is their mission:
 Answering this question helps you effectively define and promote accessibility in your context. Let's go back to our architectural design example. When a wheelchair user meets a curb, is the problem the wheelchair or the user? No, the wheelchair serves to help the user move. The accessibility problem is the curb.
 
 You may think this is obvious, but it's often a real problem with content accessibility. Some think the problem is the person's disability or the use of assistive technology. Instead, those people could check for poorly formatted content or written code. Designing for equitable access is not about solving disability as a problem. You should accept and respect solutions that enable alternate ways to access. At the same time, consider if you are creating obstacles for those with special needs.
+
+(add Hemingway results here)
