@@ -343,3 +343,39 @@ From June, you don't need to send competition files to the BC Public Service Age
 - I don't like how it says 'This policy changed' because I thought this was meant to be written from the POV that its ABOUT to change.
 - I do like how the date is moved to the end. This is usually the case with any usual deadlines for school or work assignments.
 - It looks like I added a heading but they didn't. I feel proud. 💪
+
+# Exercise twelve: evaluate a page using a plain language checklist
+
+This exercise is the same as Exercise 11 except that you have the opportunity to select the text you want to edit.
+
+Here is an article that I read about accessibility:
+
+> A Philosophical Definition
+> 
+> In defining and promoting accessibility, it’s important to properly differentiate the problem and purpose of accessibility. Let’s return to architectural design for an example. When a person utilizing a wheelchair for mobility encounters a curb, there clearly exists an instance of in-access (a lack or limitation of access). It’s important to note here, that the wheelchair, or even the need for the wheelchair, is not the problem. The wheelchair is the legitimate means of mobility; the curb is the problem. This may seem obvious, but this distinction is seldom translated to the realm of content accessibility. Rather than viewing improperly formatted content, or poorly written code as the problem, a person’s disability and use of assistive technology is seen by some as the issue to overcome. However, writing, coding, and designing for equitable access is not about solving disability as a problem; it’s about accepting and respecting the solutions and technologies that enable alternate means of access, and then not constructing obstacles to their use.
+>
+> Source: What is Accessibility? (SeeWriteHear, https://www.seewritehear.com/learn/what-is-accessibility). Accessed 1st December 2023.
+>
+
+It's interesting that this is their mission:
+
+> Pursuing information equality for people with disabilities by creating content, researching new technologies, and providing education for clients at all levels of government and business.
+
+...yet I find it hard to read.
+
+## Hemingway test - this is what it came out with
+
+- Hemingway grade 12
+- 4 adverbs. Aim for 1 or fewer.
+- 1 use of passive voice, meeting the goal of 2 or fewer.
+- 2 phrases have simpler alternatives.
+- 1 of 9 sentences is hard to read.
+- 4 of 9 sentences are very hard to read.
+
+## Here is my rewrite in plain language
+
+**What is the purpose and problem of accessibility?**
+
+Answering this question helps you effectively define and promote accessibility in your context. Let's go back to our architectural design example. When a wheelchair user meets a curb, is the problem the wheelchair or the user? No, the wheelchair serves to help the user move. The accessibility problem is the curb.
+
+You may think this is obvious, but it's often a real problem with content accessibility. Some think the problem is the person's disability or the use of assistive technology. Instead, those people could check for poorly formatted content or written code. Designing for equitable access is not about solving disability as a problem. You should accept and respect solutions that enable alternate ways to access. At the same time, consider if you are creating obstacles for those with special needs.
